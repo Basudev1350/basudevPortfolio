@@ -433,7 +433,7 @@ var options = {
   offset: 120,
   delay: 0,
   easing: 'ease',
-  duration: 400,
+  duration: 100,
   disable: false,
   once: false,
   mirror: false,
